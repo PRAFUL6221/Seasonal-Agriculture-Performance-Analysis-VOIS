@@ -20,7 +20,6 @@ This project was developed as part of the **VOIS AICTE Major Project (Batch 1, 2
 ```text
 ├── Seasonal_Agriculture_Performance_Analysis.ipynb  # Main Jupyter Notebook with EDA, statistical models & visual charts
 ├── seasonal_agriculture_performance_dataset.csv     # Dataset containing 4,000 farm records & 28 analytical features
-├── Seasonal_Agriculture_Performance_Analysis_Submission.pptx  # 11-slide PowerPoint presentation deck
 ├── requirements.txt                                 # Python dependencies required to run the project
 └── README.md                                        # Project documentation and guide
 ```
